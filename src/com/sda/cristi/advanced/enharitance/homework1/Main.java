@@ -10,4 +10,15 @@ package com.sda.cristi.advanced.enharitance.homework1;
  * 	as well as an equals method. Write another class containing a main method to fully test your class definition.
  */
 public class Main {
+    public static void main(String[] args) {
+
+
+        Person person1 = new Person("Cristi", 10, 2022, "insurance1");
+        Person person2 = new Person("Alex", 11, 2022, "insurance123");
+        Person person3 = new Person("Claudia", 12, 2021, "insurance12");
+        System.out.println(person3);
+        System.out.println(person2);
+        System.out.println(person1);
 }
+    }
+
