@@ -1,4 +1,4 @@
-package com.sda.cristi.advanced.enharitance.ex1;
+package com.sda.cristi.advanced.inharitance.ex1;
 
 public class Rectangle extends Shape {
 

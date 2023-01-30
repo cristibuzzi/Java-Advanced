@@ -1,6 +1,4 @@
-package com.sda.cristi.advanced.enharitance.ex1;
-
-import com.sda.cristi.advanced.enharitance.ex1.Circle;
+package com.sda.cristi.advanced.inharitance.ex1;
 
 /**
  * a) Add fields, create constructor, getters and setters.

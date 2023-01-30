@@ -1,4 +1,4 @@
-package com.sda.cristi.advanced.enharitance.homework1;
+package com.sda.cristi.advanced.inharitance.homework1;
 
 public class Person {
 
